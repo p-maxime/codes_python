@@ -2,6 +2,4 @@ numpy
 matplotlib==3.*
 ipywidgets
 ipympl
-nodejs
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install jupyter-matplotlib
+nodejs jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter labextension install jupyter-matplotlib
