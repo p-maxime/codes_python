@@ -1,4 +1,2 @@
 simpleaudio
-numpy
-scipy
 matplotlib
